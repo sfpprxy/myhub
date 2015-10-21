@@ -1,0 +1,57 @@
+/*public*/
+body,div,span,ul,li,h1,h2,h3,h4,h5,h6,img,em,strong,input,form,p,a,dl,dt,dd{ padding:0; margin:0;}
+body{ font-size:12px;background:url(images/bg.png) repeat-x;}
+ul{ list-style:none;}
+a{ text-decoration:none;}
+img{ border:0;}
+h2{ font-family:'微软雅黑'; font-size:14px;}
+
+/*head*/
+.head {margin-top: 0px;}
+.head .head1 {height: 24px;}
+.head .head2 {height: 45px;margin-top: 21px;margin-left: 220px;}
+.head .fence {height: 1px;margin-top: 9px;}
+
+/*main*/
+.main {margin-top: 11px;margin-left: 120px;}
+.main .main1 {height: 358px;width: 300px;float:left;margin-left:100px;}
+.main .main1 .nav .nav1 {float:left;margin-right: -200px;}
+.main .main1 .nav .navt {font-size:20px;float:left;margin-top: -2px;margin-left: 18px;}
+/*由于CSS不能渲染字体(PSD中为'浑厚'效果)，这里用微软雅黑-加粗代替*/
+.main .main1 .nav .navt li a {line-height:33px;font-size:13px;font-family:'微软雅黑';font-weight:bold;color: #666666;}
+.main .main1 .nav .navt li span {font-size:13px;font-family:'微软雅黑';font-weight:bold;color: #FFFFFF;}
+.main .banner1 {width: 738px;height: 330px;float:left;margin-left:-38px;margin-top: 35px;}
+.main .banner1 .banner2 {width: 738px;height: 330px;float:left;margin-left:0px;}
+.main .banner1 .banner2 img {width: 738px;height: 330px;}
+.main .banner1 .banner3 {width: 24px;height: 24px;float:left;margin-left:689px;}
+.main .banner1 .banner4 {width: 24px;height: 24px;float:right;margin-left:0px;}
+.main .main2 {width: 1010px;height: 130px;float:left;margin-top:40px;margin-left:100px;}
+
+.main .banner1 .banner2{
+	transition:All 0.4s ease-in-out;
+	-webkit-transition:All 0.4s ease-in-out;
+	-moz-transition:All 0.4s ease-in-out;
+	-o-transition:All 0.4s ease-in-out;
+	background-color:#000000;
+	display:block;
+
+}
+/*基于CSS5特性，需浏览器支持*/
+.main .banner1 .banner2:hover {
+	transform:scale(1.21);
+	-webkit-transform:scale(1.21);
+	-moz-transform:scale(1.21);
+	-o-transform:scale(1.21);
+	-ms-transform:scale(1.21);
+}
+
+/*bottom*/
+.bot {float:left;margin-top:43px;}
+.bot .bot1 {float:left;height: 10px;}
+.bot .bot2 {float:left;margin-left:228px;margin-top:13px;}
+.bot .bot2 .boti {float:left;margin-top:5px;}
+.bot .bot2 .bott1 {float:left;margin-left:12px;}
+.bot .bot2 .bott1 p {line-height:21px;font-size:1px;color: #949393;}
+.bot .bot2 .bott2 {float:left;margin-left:445px;}
+/*由于CSS不能渲染字体(PSD中为'浑厚'效果)，这里用微软雅黑-加粗代替*/
+.bot .bot2 .bott2 p {line-height:20px;font-size:15px;font-family:'微软雅黑';font-weight:bold;color: #d3070f;}
