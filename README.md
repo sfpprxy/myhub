@@ -1,9 +1,17 @@
 # Joe's cloud documents
 
 ## Files
-  - Please find my [UI prototype](https://github.com/sfpprxy/myhub/tree/master/UI%20Prototype) above.
+  - Please find my [UI prototype](https://github.com/sfpprxy/myhub/tree/master/UI%20Prototype) above
   - Please find my [sample-of-front-end](https://github.com/sfpprxy/myhub/tree/master/sample-of-front-end) above
   - More stuff coming...
+
+## View
+20% of total time, To implementing UI design to View:
+    
+    No fancy, delicate, good-looking stuff, upgrade later (after we decided the whole style, in order to keep consistency).
+
+  - HTML (80% time)
+  - CSS, Javascript (20%)
 
 ## Coding Conventions
   - [Naming standards](https://msdn.microsoft.com/en-us/library/x2dbyw72(v=vs.71).aspx) ([Example](https://raw.githubusercontent.com/sfpprxy/myhub/master/Archive/Project%20C%23%20-%207.png))
