@@ -14,8 +14,8 @@ Upgrade later:
 
     After we decided the whole style, in order to keep consistency.
 
-  - HTML (80% time)
-  - CSS, Javascript (20%)
+    - HTML (80% time)
+    - CSS, Javascript (20%)
 
 ## Coding Conventions
 80% of total time, To implementing functionality code.
