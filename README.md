@@ -9,13 +9,13 @@
 20% of total time, To implementing UI design to View:
 
     No fancy, delicate, good-looking stuff.
+    - HTML (80% time)
+    - CSS, Javascript (20% time)
 
 Upgrade later:
 
     After we decided the whole style, in order to keep consistency.
 
-    - HTML (80% time)
-    - CSS, Javascript (20%)
 
 ## Coding Conventions
 80% of total time, To implementing functionality code.
