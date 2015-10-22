@@ -18,6 +18,8 @@ Upgrade later:
   - CSS, Javascript (20%)
 
 ## Coding Conventions
+80% of total time, To implementing functionality code.
+
   - [Naming standards](https://msdn.microsoft.com/en-us/library/x2dbyw72(v=vs.71).aspx) ([Example](https://raw.githubusercontent.com/sfpprxy/myhub/master/Archive/Project%20C%23%20-%207.png))
   - [Commenting conventions](https://msdn.microsoft.com/zh-cn/library/ff926074.aspx#Anchor_2)
   - [Less than 40 lines in a method](https://raw.githubusercontent.com/sfpprxy/myhub/master/Archive/Project%20C%23%20-%208.png)
