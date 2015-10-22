@@ -7,8 +7,12 @@
 
 ## View
 20% of total time, To implementing UI design to View:
-    
-    No fancy, delicate, good-looking stuff, upgrade later (after we decided the whole style, in order to keep consistency).
+
+    No fancy, delicate, good-looking stuff.
+
+Upgrade later:
+
+    After we decided the whole style, in order to keep consistency.
 
   - HTML (80% time)
   - CSS, Javascript (20%)
