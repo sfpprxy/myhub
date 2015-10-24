@@ -11,10 +11,8 @@
 ## About Github
 
   - [What is git?](https://github.com/sfpprxy/myhub/blob/master/all-in-one/git.pdf)
-
-
-
-    How do we collaborate with Github?
+  - 
+### How do we collaborate with Github?
   - When you finished your UI design, just simply download [GITHUB FOR WINDOWS](https://desktop.github.com).
   - And upload your files(pdf, jpg, png, etc) to YOUR GITHUB REPOSITORY.
   - Last, share your GITHUB USERNAME in Facebook.
