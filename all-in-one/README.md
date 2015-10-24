@@ -1,6 +1,6 @@
 # All resources in one place
 
-## About C#
+## About C sharp
 
   - [(Video)Difference between WebForm / MVC, what are they?](http://www.asp.net/aspnet/overview/making-websites-with-aspnet/making-websites-with-aspnet)
 
