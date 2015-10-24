@@ -4,9 +4,7 @@
 
   - [(Video)Difference between WebForm / MVC, what are they?](http://www.asp.net/aspnet/overview/making-websites-with-aspnet/making-websites-with-aspnet)
 
-  - [ASP.NET MVC Tutorial](http://www.w3schools.com/aspnet/mvc_intro.asp)
-
-  - [Getting Started](http://www.asp.net/mvc/overview/getting-started/introduction/getting-started)
+  - [Getting Started](http://www.asp.net/mvc/overview/getting-started/introduction/getting-started) & [ASP.NET MVC Tutorial](http://www.w3schools.com/aspnet/mvc_intro.asp)
 
 ## About Github
 
