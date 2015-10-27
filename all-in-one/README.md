@@ -23,6 +23,8 @@ Coding:
     ...
     ...
 
+  - Sync
+
 #### Next week
   - Test dev branch
   - Merge dev into master: master ←---- dev
