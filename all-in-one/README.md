@@ -10,7 +10,7 @@
 ### How do we collaborate with Github?
 
 #### This week
-  - Fork
+  - Fork ([Watch video](https://www.youtube.com/watch?v=2LVphXtlJc8))
   - Clone
   - Switch to dev branch
 
@@ -23,7 +23,7 @@ Coding:
     ...
     ...
 
-  - Sync
+  - Sync ([Watch video](https://www.youtube.com/watch?v=9u9KYtDtAxQ))
 
 #### Next week
   - Test dev branch
