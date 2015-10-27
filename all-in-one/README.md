@@ -10,6 +10,7 @@
 ### How do we collaborate with Github?
 
 #### This week
+  - Fork
   - Clone
   - Switch to dev branch
 
