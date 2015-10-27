@@ -8,12 +8,10 @@
   - [What is git?](https://github.com/sfpprxy/myhub/blob/master/all-in-one/git.pdf)
 
 ### How do we collaborate with Github?
-    123
-    456fg
+
 #### This week
   - Clone
   - Switch to dev branch
-
 Coding:
 
     Change
@@ -23,11 +21,9 @@ Coding:
     ...
     ...
 
-
 #### Next week
   - Test dev branch
   - Merge dev into master: master ←---- dev
-
 
 #### For later
   - Send a Pull request to joe
