@@ -1,8 +1,8 @@
 # UI design folder
 
 ## Description
-  - Please find my [UI prototype](https://github.com/sfpprxy/myhub/tree/master/UI%20Prototype) above.
-  - More stuff coming...
+  - Picture of this [UI prototype](https://raw.githubusercontent.com/sfpprxy/myhub/master/C%23-project/UI%20Prototype/UI%20demo%20.png) above.
+
 
 ## Why this UI is good
   - It contains all the finalized functions. No addition, No deletion.
