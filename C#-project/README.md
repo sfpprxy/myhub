@@ -38,6 +38,6 @@ Coding:
   
 These rules are very helpful to your future career:
   - [Naming standards](https://msdn.microsoft.com/en-us/library/x2dbyw72(v=vs.71).aspx) ([Example](https://raw.githubusercontent.com/sfpprxy/myhub/master/Archive/Project%20C%23%20-%207.png))
-  - [Commenting conventions](https://msdn.microsoft.com/zh-cn/library/ff926074.aspx#Anchor_2)
+  - [Commenting conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx#Anchor_2)(在地址栏把en-us换成zh-cn)
   - [Less than 40 lines in a method](https://raw.githubusercontent.com/sfpprxy/myhub/master/Archive/Project%20C%23%20-%208.png)
   - [Modularity&Decoupling](http://www.answers.com/Q/What_does_Decoupling_mean_in_Object_Oriented_System)
