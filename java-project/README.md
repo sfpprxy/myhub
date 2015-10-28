@@ -6,14 +6,15 @@ It's a online food shopping store that can allow customer browse and buy foods. 
 
 #### Home page
   - Display Foods
-  - Add/Remove Foods to shopping cart
+  - Add Foods to shopping cart
 
 #### Shopping cart page
   - Update Foods quantities
   - View summary of all Foods their quantities and total price
 
 #### Address&Payment page
-  - Enable a customer to place an order and make payment by using fictitious credit card details (You may use any available plugin for this purpose or 10 digits number validation for credit card)
+  - Fill address
+  - Place an order and make payment by using fictitious credit card details
 
 #### Registration page
 
