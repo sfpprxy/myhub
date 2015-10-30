@@ -6,7 +6,7 @@
   - [Getting Started](http://www.asp.net/mvc/overview/getting-started/introduction/getting-started) & [ASP.NET MVC Tutorial](http://www.w3schools.com/aspnet/mvc_intro.asp)
 
 ## About Github
-  - [What is git?](https://github.com/sfpprxy/myhub/blob/master/all-in-one/git.pdf)
+  - [What is git?](https://github.com/sfpprxy/myhub/blob/master/C%23-project/git.pdf)
 
 ### How do we collaborate with Github?
 
