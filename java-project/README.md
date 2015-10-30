@@ -1,6 +1,6 @@
 
-# Description - Online food shopping
-It's a online food shopping store that can allow customer browse and buy foods. Allow staff check orders, organize foods.
+# Use-Case Description: Online food shopping
+Customer visits the home page and selects a food category. Customer browses foods within the selected category page, then adds a product to his or her shopping cart. Customer continues shopping and selects a different category. Customer adds several products from this category to shopping cart. Customer selects 'view cart' option and updates quantities for cart products in the cart page. Customer verifies shopping cart contents with summary cost and proceeds to checkout. In the checkout page, customer views the total cost, fills in personal data, then submits his or her details. The order is processed and customer is taken to a confirmation page. The confirmation page provides a unique reference number for tracking the customer order, as well as a summary of the order.
 
 ## Customer
 
