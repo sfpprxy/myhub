@@ -6,17 +6,23 @@ Customer visits the home page and selects a food category. Customer browses food
 
 #### Home page
   - Display category
+
+#### Food list page(temp)
   - Display foods
   - Add foods to shopping cart
 
 #### Shopping cart page
   - Update foods quantities
-  - View summary of all foods their quantities and total price
+  - View summary of quantities and total price
 
-#### Address&Payment page
+#### Checkout page
   - View summary cost
   - Fill address
-  - Place an order and make payment by using fictitious credit card details
+  - Using fictitious credit card details
+  - Place an order and make payment
+
+#### Order history page
+  - View history orders
 
 #### Registration page
 
