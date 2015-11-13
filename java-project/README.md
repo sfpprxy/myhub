@@ -11,29 +11,31 @@ Customer visits the home page and selects a food category. Customer browses food
 
 ## Customer
 
-#### Home page
+#### Home - display
   - Display category
 
-#### Food list page(temp)
+#### Food list - display
   - Display foods
   - Add foods to shopping cart
 
-#### Shopping cart page
+#### Cart / cart - update
   - Update foods quantities
   - View summary of quantities and total price
 
-#### Checkout page
+#### Checkout / payment - update
   - View summary cost
   - Fill address
   - Using fictitious credit card details
   - Place an order and make payment
 
-#### Order history page
+#### Confirmation / complete - display
+
+#### Orders - display
   - View history orders
 
-#### Registration page
+#### Registration
 
-#### Login Page
+#### Login
 
 ## Admin
 
