@@ -1,4 +1,5 @@
 # All resources in one place
+![UI prototype](https://github.com/sfpprxy/myhub/blob/master/ISC-project/UI%20Prototype/UI%20demo%20.png)
 
 ## Coding Conventions
 80% of total time, To implementing functionality code.  
