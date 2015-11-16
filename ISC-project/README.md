@@ -1,12 +1,18 @@
 # All resources in one place
 
+## Coding Conventions
+80% of total time, To implementing functionality code.  
+These rules are very helpful to your future career:
+  - [Java编程风格](https://jervyshi.gitbooks.io/google-java-styleguide-zh/content/introduction/index.html) 
+  - [Java coding style](http://google.github.io/styleguide/javaguide.html)
+  - [Modularity&Decoupling](http://www.answers.com/Q/What_does_Decoupling_mean_in_Object_Oriented_System)
+
 ## Tutorials
   - [Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY&list=WL&index=7)
   - [(Video)Difference between WebForm / MVC, what are they?](http://www.asp.net/aspnet/overview/making-websites-with-aspnet/making-websites-with-aspnet)
-  - [Getting Started](http://www.asp.net/mvc/overview/getting-started/introduction/getting-started) & [ASP.NET MVC Tutorial](http://www.w3schools.com/aspnet/mvc_intro.asp)
 
 ## About Github
-  - [What is git?](https://github.com/sfpprxy/myhub/blob/master/C%23-project/git.pdf)
+  - [What is git?](https://github.com/sfpprxy/myhub/blob/master/ISC-project/git.pdf)
 
 ### How do we collaborate with Github?
 
@@ -34,11 +40,6 @@ Coding:
   - Send a Pull request to joe
   - joe:dev ←---- you:master
 
-## Before you start: Coding Conventions
-80% of total time, To implementing functionality code.  
+
   
-These rules are very helpful to your future career:
-  - [Naming standards](https://msdn.microsoft.com/en-us/library/x2dbyw72(v=vs.71).aspx) ([Example](https://raw.githubusercontent.com/sfpprxy/myhub/master/Archive/Project%20C%23%20-%207.png))
-  - [Commenting conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx#Anchor_2)(在地址栏把en-us换成zh-cn)
-  - [Less than 40 lines in a method](https://raw.githubusercontent.com/sfpprxy/myhub/master/Archive/Project%20C%23%20-%208.png)
-  - [Modularity&Decoupling](http://www.answers.com/Q/What_does_Decoupling_mean_in_Object_Oriented_System)
+
