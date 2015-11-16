@@ -1,7 +1,7 @@
 # Joe's cloud documents
 
-## C# project
-  - All you need is in [C#-project](https://github.com/sfpprxy/myhub/tree/master/C%23-project)
+## ISC project
+  - All info about [ISC-project](https://github.com/sfpprxy/myhub/tree/master/ISC-project)
 
 ## Java project
   - [Documents](https://github.com/sfpprxy/myhub/tree/master/java-project)
