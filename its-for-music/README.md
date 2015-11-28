@@ -1,4 +1,5 @@
 # 教程
+遇到小问题先别急着问我，开动你的小脑筋，搜索一下:P
 
 ## Mac
   - [Mac客户端下载链接](http://7xicnm.com1.z0.glb.clouddn.com/ShadowsocksX-2.6.1.dmg)
