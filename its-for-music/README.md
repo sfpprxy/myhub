@@ -1,5 +1,6 @@
 # 教程
-遇到小问题先别急着问我，开动你的小脑筋，搜索一下:P
+遇到小问题先别急着问我，开动你的小脑筋，搜索一下:P    
+这个是我服务器信息的二维码![QR](https://raw.githubusercontent.com/sfpprxy/myhub/master/its-for-music/QRcode.png)
 
 ## Mac
   - [Mac客户端下载链接](http://7xicnm.com1.z0.glb.clouddn.com/ShadowsocksX-2.6.1.dmg)
