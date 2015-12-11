@@ -42,9 +42,9 @@ I simply use bootstrap(js and css lib) to provide a relatively more professional
 []
 
 #### Version Control
-I use git and host the source code in Github:
-https://github.com/sfpprxy/java-shop
-So the development progress commits are recorded in:
+I use git and host the source code in Github:    
+https://github.com/sfpprxy/java-shop    
+So the development progress commits are recorded in:    
 https://github.com/sfpprxy/java-shop/commits/master
 
 ## Use-Case Diagram 
@@ -58,9 +58,13 @@ https://github.com/sfpprxy/java-shop/commits/master
 In order to implement some hard futures, sometimes I will try new technologies, new methods. But finally I found it only speeds up the efficiency, it does not solve the requirement / problem itself.
 #### Make big problem into small problems
 I learnt a very useful way of solving problem through this module:
-When facing a big problem or debugging. Split it into small problems. If it’s still confusing. Split them into smaller problems. Then there will be solutions already excited. At last, link the small solutions together.
+  - When facing a big problem or debugging. Split it into small problems. 
+  - If it’s still confusing. Split them into smaller problems. 
+  - Then there will be solutions already excited. 
+  - At last, link the small solutions together.
+
 #### Communication
-Sometimes I got stuck for days and try to figure out myself but nothing came out. So I ask my teacher, then quickly I got inspired and solve the problem. Therefore, it is important to have communication with others.
+Sometimes I got stuck for days and try to figure out myself but nothing cames out. So I ask my teacher, then quickly I got inspired and solve the problem. Therefore, it is important to have communication with others.
 
 ## Functionality List - Customer
 
