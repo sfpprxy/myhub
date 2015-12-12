@@ -17,7 +17,6 @@ About Java persistence API, I only use JDBC (raw SQL) to access data, because in
 
 #### MVC
 The main advantage of using MVC in web application development is to separate front-end(HTML in jsp) codes and back-end(businesses logic and data access codes in Java) codes and have more readability, modularity and scalability in the future(especially in a team project). Which means if one is familiar with a MVC framework he or she can develop software with higher productivity and quality. Because the system architecture was pre-designed very well.
-[]
 
 #### Maven
 This project use Maven as the build tool and to manage all dependencies
@@ -30,16 +29,16 @@ This project use Maven as the build tool and to manage all dependencies
   - etc
 
 #### Unit Test & results
-At first I use System.out.println() for testing, but later it becomes so inefficient and unreliable. So I tried to use junit to simulate the runtime error. Furthermore, by using it I can cover almost every corner case.
-[result]
+At first I use System.out.println() for testing, but later it becomes so inefficient and unreliable. So I tried to use junit to simulate the runtime error. Furthermore, by using it I can cover almost every corner case (snapshot below is set to failed on purpose so you can see the actual results).
+![result](https://github.com/sfpprxy/myhub/blob/master/java-project/test.png)
 
 #### Web Service
 I use RESTful(via HTTP URI) to allow other application to access my data, which the API is provided by spring-mvc.
-[json]
+![json](https://github.com/sfpprxy/myhub/blob/master/java-project/json.png)
 
 #### About Front-End
 I simply use bootstrap(js and css lib) to provide a relatively more professional GUI through html.
-[]
+![ui](https://github.com/sfpprxy/myhub/blob/master/java-project/ui.png)
 
 #### Version Control
 I use git and host the source code in Github:    
@@ -48,11 +47,15 @@ So the development progress commits are recorded in:
 https://github.com/sfpprxy/java-shop/commits/master
 
 ## Use-Case Diagram 
-
+![use case diagram](https://raw.githubusercontent.com/sfpprxy/myhub/master/java-project/Use%20Case%20Diagram.png)
 ## ER Diagram
-
+![ER](https://github.com/sfpprxy/myhub/blob/master/java-project/ER.png)
 ## Wireframes
-
+![food](https://raw.githubusercontent.com/sfpprxy/myhub/master/java-project/food.png)
+![cart](https://raw.githubusercontent.com/sfpprxy/myhub/master/java-project/cart.png)
+![checkout](https://raw.githubusercontent.com/sfpprxy/myhub/master/java-project/checkout.png)
+![confirm](https://raw.githubusercontent.com/sfpprxy/myhub/master/java-project/confirm.png)
+![orders](https://raw.githubusercontent.com/sfpprxy/myhub/master/java-project/orders.png)
 ## Learning & Problem solving
 #### Deviation
 In order to implement some hard futures, sometimes I will try new technologies, new methods. But finally I found it only speeds up the efficiency, it does not solve the requirement / problem itself.
